@@ -95,6 +95,19 @@ I’m a web developer who enjoys transforming rough ideas into thoughtful, worki
 
 </div>
 
+## Pull request activity
+
+<div align="center">
+
+<a href="https://github.com/search?q=author%3Arupeshkumar92a-arch+is%3Apr+is%3Aopen&type=pullrequests">
+  <img src="https://img.shields.io/github/issues-search?query=author%3Arupeshkumar92a-arch%20is%3Apr%20is%3Aopen&label=Open%20PRs&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="Open pull requests: 14" />
+</a>
+<a href="https://github.com/search?q=author%3Arupeshkumar92a-arch+is%3Apr+is%3Amerged&type=pullrequests">
+  <img src="https://img.shields.io/github/issues-search?query=author%3Arupeshkumar92a-arch%20is%3Apr%20is%3Amerged&label=Merged%20PRs&style=for-the-badge&color=3FB950&labelColor=161B22" alt="Merged pull requests: 24" />
+</a>
+
+</div>
+
 ## Let’s build something
 
 I’m always happy to meet people who care about thoughtful products, clean engineering, and open source.
