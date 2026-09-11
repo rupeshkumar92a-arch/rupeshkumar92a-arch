@@ -83,7 +83,7 @@ I’m a web developer who enjoys transforming rough ideas into thoughtful, worki
 <div align="center">
 
 <a href="https://github.com/rupeshkumar92a-arch">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rupeshkumar92a-arch&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60&text_color=C9D1D9" alt="Rupesh's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rupeshkumar92a-arch&show=prs_merged&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60&text_color=C9D1D9" alt="Rupesh's GitHub statistics, including merged pull requests" />
 </a>
 <a href="https://github.com/rupeshkumar92a-arch">
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rupeshkumar92a-arch&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60&text_color=C9D1D9" alt="Rupesh's most used languages" />
