@@ -1,18 +1,103 @@
-# 💫 About Me:
-💻 I'm currently working on building modern web applications and AI-powered projects.<br>🤝 I'm looking to collaborate on open-source projects, startups, and innovative web development ideas.<br>🛠️ I'm looking for help with scalable system design, AI integration, and cloud deployment.<br>🌱 I'm currently learning React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, and AI technologies.<br>💬 Ask me about Frontend Development, JavaScript, React, UI/UX Design, Git, GitHub, and Full-Stack Development.<br>⚡ Fun fact: I love turning creative ideas into real-world applications and continuously learning new technologies to build impactful digital experiences.
+<div align="center">
 
+# Hi, I'm Rupesh Kumar 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rupesh-kumar-9b3629377/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupesh.kumar92.a@gmail.com) 
+### Web developer · Open-source contributor · Builder of useful things
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rupeshkumar92a-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rupeshkumar92a-arch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rupeshkumar92a-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/rupeshkumar92a-arch">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software;Exploring+AI%2C+developer+tools%2C+and+the+web;Learning+in+public%2C+one+commit+at+a+time" alt="Typing introduction" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=rupeshkumar92a-arch&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <a href="https://github.com/rupeshkumar92a-arch?tab=followers"><img src="https://img.shields.io/github/followers/rupeshkumar92a-arch?label=Followers&style=flat-square&color=58A6FF&labelColor=161B22" alt="GitHub followers" /></a>
+  <a href="https://github.com/rupeshkumar92a-arch?tab=repositories"><img src="https://img.shields.io/github/stars/rupeshkumar92a-arch?affiliations=OWNER&style=flat-square&color=F2CC60&labelColor=161B22&label=Stars" alt="GitHub stars" /></a>
+  <a href="mailto:rupesh.kumar92.a@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-%23DAFBE1?style=flat-square&labelColor=161B22&color=3FB950" alt="Email Rupesh" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=header" alt="" width="100%" />
+</div>
+
+## About me
+
+I’m a web developer who enjoys transforming rough ideas into thoughtful, working products. I like moving across the stack: shaping clean interfaces, wiring reliable APIs, experimenting with AI, and learning from large open-source codebases.
+
+- 🔭 **Building:** modern web applications, AI-powered experiments, and developer tooling
+- 🌱 **Learning:** React, Next.js, Node.js, TypeScript, system design, and cloud deployment
+- 🤝 **Open to:** open-source collaboration, product ideas, and interesting engineering problems
+- 💬 **Ask me about:** JavaScript, React, UI/UX, Git/GitHub, and full-stack development
+- ⚡ **Principle:** make it useful, make it clear, then make it better
+
+## What I’m working around
+
+<div align="center">
+
+| 🧠 Product thinking | 🛠️ Engineering | 🌍 Community |
+| :---: | :---: | :---: |
+| Turning ideas into practical products | Building maintainable web systems | Contributing to open source |
+| Exploring AI that solves real problems | Learning scalable architecture | Sharing the learning journey |
+
+</div>
+
+## Selected work
+
+<div align="center">
+
+<a href="https://github.com/rupeshkumar92a-arch/LIFEMESH">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=LIFEMESH&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="LIFEMESH repository card" />
+</a>
+<a href="https://github.com/rupeshkumar92a-arch/palash-ai">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=palash-ai&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="Palash AI repository card" />
+</a>
+
+<a href="https://github.com/rupeshkumar92a-arch/opentelemetry-go-compile-instrumentation">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=opentelemetry-go-compile-instrumentation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="OpenTelemetry Go Compile Instrumentation repository card" />
+</a>
+<a href="https://github.com/rupeshkumar92a-arch/Second-Brain">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=Second-Brain&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="Second Brain repository card" />
+</a>
+
+</div>
+
+## Tools I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode&perline=7" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Python, Git, GitHub, and VS Code" />
+
+</div>
+
+## GitHub at a glance
+
+<div align="center">
+
+<a href="https://github.com/rupeshkumar92a-arch">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rupeshkumar92a-arch&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60&text_color=C9D1D9" alt="Rupesh's GitHub statistics" />
+</a>
+<a href="https://github.com/rupeshkumar92a-arch">
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rupeshkumar92a-arch&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60&text_color=C9D1D9" alt="Rupesh's most used languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=rupeshkumar92a-arch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" alt="Rupesh's GitHub contribution streak" />
+
+</div>
+
+## Let’s build something
+
+I’m always happy to meet people who care about thoughtful products, clean engineering, and open source.
+
+<div align="center">
+  <a href="mailto:rupesh.kumar92.a@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rupesh" /></a>
+  <a href="https://www.linkedin.com/in/rupesh-kumar-9b3629377/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rupesh on LinkedIn" /></a>
+  <a href="https://github.com/rupeshkumar92a-arch"><img src="https://img.shields.io/badge/GitHub-%231F2328?style=for-the-badge&logo=github&logoColor=white" alt="Rupesh on GitHub" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rupeshkumar92a-arch&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
+</div>
