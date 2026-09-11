@@ -20,6 +20,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=header" alt="" width="100%" />
 </div>
 
+## Open-source activity
+
+<div align="center">
+
+<p><strong>My pull request activity on GitHub</strong></p>
+<a href="https://github.com/search?q=author%3Arupeshkumar92a-arch+is%3Apr+is%3Aopen&type=pullrequests">
+  <img src="https://img.shields.io/github/issues-search?query=author%3Arupeshkumar92a-arch%20is%3Apr%20is%3Aopen&label=Open%20PRs&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="Open pull requests" />
+</a>
+<a href="https://github.com/search?q=author%3Arupeshkumar92a-arch+is%3Apr+is%3Amerged&type=pullrequests">
+  <img src="https://img.shields.io/github/issues-search?query=author%3Arupeshkumar92a-arch%20is%3Apr%20is%3Amerged&label=Merged%20PRs&style=for-the-badge&color=3FB950&labelColor=161B22" alt="Merged pull requests" />
+</a>
+
+</div>
+
 ## About me
 
 I’m a web developer who enjoys transforming rough ideas into thoughtful, working products. I like moving across the stack: shaping clean interfaces, wiring reliable APIs, experimenting with AI, and learning from large open-source codebases.
@@ -92,19 +106,6 @@ I’m a web developer who enjoys transforming rough ideas into thoughtful, worki
 <br />
 
 <img src="https://streak-stats.demolab.com?user=rupeshkumar92a-arch&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" alt="Rupesh's GitHub contribution streak" />
-
-</div>
-
-## Pull request activity
-
-<div align="center">
-
-<a href="https://github.com/search?q=author%3Arupeshkumar92a-arch+is%3Apr+is%3Aopen&type=pullrequests">
-  <img src="https://img.shields.io/github/issues-search?query=author%3Arupeshkumar92a-arch%20is%3Apr%20is%3Aopen&label=Open%20PRs&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="Open pull requests: 14" />
-</a>
-<a href="https://github.com/search?q=author%3Arupeshkumar92a-arch+is%3Apr+is%3Amerged&type=pullrequests">
-  <img src="https://img.shields.io/github/issues-search?query=author%3Arupeshkumar92a-arch%20is%3Apr%20is%3Amerged&label=Merged%20PRs&style=for-the-badge&color=3FB950&labelColor=161B22" alt="Merged pull requests: 24" />
-</a>
 
 </div>
 
