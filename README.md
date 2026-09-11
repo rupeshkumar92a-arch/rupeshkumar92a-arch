@@ -58,6 +58,15 @@ I’m a web developer who enjoys transforming rough ideas into thoughtful, worki
 <a href="https://github.com/rupeshkumar92a-arch/Second-Brain">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=Second-Brain&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="Second Brain repository card" />
 </a>
+<a href="https://github.com/rupeshkumar92a-arch/checkstyle">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=checkstyle&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="Checkstyle repository card" />
+</a>
+<a href="https://github.com/rupeshkumar92a-arch/musicblocks">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=musicblocks&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="Sugar Labs Music Blocks repository card" />
+</a>
+<a href="https://github.com/rupeshkumar92a-arch/sw360">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=rupeshkumar92a-arch&repo=sw360&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F2CC60" alt="SW360 repository card" />
+</a>
 
 </div>
 
